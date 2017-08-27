@@ -1,0 +1,104 @@
+12:55:59:377	55cf2740	args: -epool eth-eu.dwarfpool.com:8080 -ewal 0x8bb5e103b9849d1845609f0af8006fb077eb7b8c/Miner-David 
+12:55:59:377	55cf2740	
+12:55:59:377	55cf2740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+12:55:59:377	55cf2740	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+12:55:59:377	55cf2740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+12:55:59:377	55cf2740	
+12:55:59:578	55cf2740	ETH: 1 pool is specified
+12:55:59:578	55cf2740	Main Ethereum pool is eth-eu.dwarfpool.com:8080
+12:55:59:578	55cf2740	DCR: 0 pool is specified
+12:55:59:847	55cf2740	OpenCL platform: NVIDIA CUDA
+12:55:59:848	55cf2740	AMD OpenCL platform not found 
+12:55:59:850	55cf2740	CUDA initializing...
+
+12:55:59:850	55cf2740	NVIDIA Cards available: 1 
+12:55:59:850	55cf2740	CUDA Driver Version/Runtime Version: 8.0/8.0
+12:55:59:850	55cf2740	GPU #0: GRID K520, 4036 MB available, 8 compute units, capability: 3.0
+
+12:55:59:850	55cf2740	Total cards: 1 
+12:56:03:852	55cf2740	No AMD cards in the list, ADL library will not be used.
+12:56:03:853	55cf2740	NVML version: 8.375.66
+12:56:03:879	4a215700	ETH: Stratum - connecting to 'eth-eu.dwarfpool.com' <87.98.182.61> port 8080
+12:56:03:977	55cf2740	No pool specified for Decred! Ethereum-only mining mode is enabled
+12:56:03:977	55cf2740	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+12:56:03:977	55cf2740	ETH: eth-proxy stratum mode
+12:56:03:977	55cf2740	Watchdog enabled
+12:56:03:977	55cf2740	Remote management (READ-ONLY MODE) is enabled on port 3333
+12:56:03:977	55cf2740	
+12:56:05:588	4edcb700	NVML: cannot get fan speed, error 3
+12:56:08:592	4edcb700	NVML: cannot get fan speed, error 3
+12:56:11:595	4edcb700	NVML: cannot get fan speed, error 3
+12:56:14:599	4edcb700	NVML: cannot get fan speed, error 3
+12:56:17:603	4edcb700	NVML: cannot get fan speed, error 3
+12:56:20:607	4edcb700	NVML: cannot get fan speed, error 3
+12:56:23:611	4edcb700	NVML: cannot get fan speed, error 3
+12:56:26:614	4edcb700	NVML: cannot get fan speed, error 3
+12:56:29:618	4edcb700	NVML: cannot get fan speed, error 3
+12:56:29:618	4edcb700	NVML: cannot get fan speed, error 3
+12:56:29:618	4edcb700	GPU0 t=56C fan=0%
+12:56:29:618	4edcb700	em hbt: 25742, fm hbt: 9, 
+12:56:29:618	4edcb700	watchdog - thread 0 (gpu0), hb time 27
+12:56:29:618	4edcb700	watchdog - thread 1 (gpu0), hb time 27
+12:56:32:622	4edcb700	NVML: cannot get fan speed, error 3
+12:56:35:626	4edcb700	NVML: cannot get fan speed, error 3
+12:56:38:629	4edcb700	NVML: cannot get fan speed, error 3
+12:56:41:633	4edcb700	NVML: cannot get fan speed, error 3
+12:56:44:637	4edcb700	NVML: cannot get fan speed, error 3
+12:56:47:641	4edcb700	NVML: cannot get fan speed, error 3
+12:56:50:644	4edcb700	NVML: cannot get fan speed, error 3
+12:56:53:648	4edcb700	NVML: cannot get fan speed, error 3
+12:56:56:652	4edcb700	NVML: cannot get fan speed, error 3
+12:56:59:655	4edcb700	NVML: cannot get fan speed, error 3
+12:56:59:655	4edcb700	NVML: cannot get fan speed, error 3
+12:56:59:655	4edcb700	GPU0 t=55C fan=0%
+12:56:59:655	4edcb700	em hbt: 55779, fm hbt: 10, 
+12:56:59:655	4edcb700	watchdog - thread 0 (gpu0), hb time 98
+12:56:59:655	4edcb700	watchdog - thread 1 (gpu0), hb time 99
+12:57:02:659	4edcb700	NVML: cannot get fan speed, error 3
+12:57:05:663	4edcb700	NVML: cannot get fan speed, error 3
+12:57:08:667	4edcb700	NVML: cannot get fan speed, error 3
+12:57:11:670	4edcb700	NVML: cannot get fan speed, error 3
+12:57:14:674	4edcb700	NVML: cannot get fan speed, error 3
+12:57:17:678	4edcb700	NVML: cannot get fan speed, error 3
+12:57:20:682	4edcb700	NVML: cannot get fan speed, error 3
+12:57:23:685	4edcb700	NVML: cannot get fan speed, error 3
+12:57:26:689	4edcb700	NVML: cannot get fan speed, error 3
+12:57:29:693	4edcb700	NVML: cannot get fan speed, error 3
+12:57:29:693	4edcb700	NVML: cannot get fan speed, error 3
+12:57:29:694	4edcb700	GPU0 t=54C fan=0%
+12:57:29:694	4edcb700	em hbt: 85818, fm hbt: 12, 
+12:57:29:694	4edcb700	watchdog - thread 0 (gpu0), hb time 70
+12:57:29:694	4edcb700	watchdog - thread 1 (gpu0), hb time 70
+12:57:32:698	4edcb700	NVML: cannot get fan speed, error 3
+12:57:35:701	4edcb700	NVML: cannot get fan speed, error 3
+12:57:38:705	4edcb700	NVML: cannot get fan speed, error 3
+12:57:41:709	4edcb700	NVML: cannot get fan speed, error 3
+12:57:44:713	4edcb700	NVML: cannot get fan speed, error 3
+12:57:47:716	4edcb700	NVML: cannot get fan speed, error 3
+12:57:50:720	4edcb700	NVML: cannot get fan speed, error 3
+12:57:53:724	4edcb700	NVML: cannot get fan speed, error 3
+12:57:56:727	4edcb700	NVML: cannot get fan speed, error 3
+12:57:59:731	4edcb700	NVML: cannot get fan speed, error 3
+12:57:59:731	4edcb700	NVML: cannot get fan speed, error 3
+12:57:59:732	4edcb700	GPU0 t=54C fan=0%
+12:57:59:732	4edcb700	em hbt: 115856, fm hbt: 14, 
+12:57:59:732	4edcb700	watchdog - thread 0 (gpu0), hb time 41
+12:57:59:732	4edcb700	watchdog - thread 1 (gpu0), hb time 41
+12:58:02:736	4edcb700	NVML: cannot get fan speed, error 3
+12:58:05:740	4edcb700	NVML: cannot get fan speed, error 3
+12:58:08:744	4edcb700	NVML: cannot get fan speed, error 3
+12:58:11:071	4a215700	ETH: Stratum - Cannot connect to eth-eu.dwarfpool.com:8080
+12:58:11:071	4a215700	ETH: Stratum - Failed to connect, retry in 20 sec...
+12:58:11:747	4edcb700	NVML: cannot get fan speed, error 3
+12:58:14:751	4edcb700	NVML: cannot get fan speed, error 3
+12:58:17:755	4edcb700	NVML: cannot get fan speed, error 3
+12:58:20:758	4edcb700	NVML: cannot get fan speed, error 3
+12:58:23:762	4edcb700	NVML: cannot get fan speed, error 3
+12:58:26:766	4edcb700	NVML: cannot get fan speed, error 3
+12:58:29:769	4edcb700	NVML: cannot get fan speed, error 3
+12:58:29:769	4edcb700	NVML: cannot get fan speed, error 3
+12:58:29:770	4edcb700	GPU0 t=54C fan=0%
+12:58:29:770	4edcb700	watchdog - eminer thread hangs
+12:58:29:770	4edcb700	em hbt: 145894, fm hbt: 15, 
+12:58:29:771	4edcb700	Miner thread hangs, need to restart miner!
+12:58:29:771	4edcb700	NVML: cannot get fan speed, error 3

@@ -1,0 +1,97 @@
+13:00:58:857	ad9b9740	args: -epool http://eth-eu.dwarfpool.com:8080 -ewal 0x8bb5e103b9849d1845609f0af8006fb077eb7b8c/Miner-David 
+13:00:58:857	ad9b9740	
+13:00:58:857	ad9b9740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+13:00:58:857	ad9b9740	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+13:00:58:858	ad9b9740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+13:00:58:858	ad9b9740	
+13:00:59:058	ad9b9740	ETH: 1 pool is specified
+13:00:59:058	ad9b9740	Main Ethereum pool is eth-eu.dwarfpool.com:8080
+13:00:59:058	ad9b9740	DCR: 0 pool is specified
+13:00:59:330	ad9b9740	OpenCL platform: NVIDIA CUDA
+13:00:59:330	ad9b9740	AMD OpenCL platform not found 
+13:00:59:332	ad9b9740	CUDA initializing...
+
+13:00:59:332	ad9b9740	NVIDIA Cards available: 1 
+13:00:59:332	ad9b9740	CUDA Driver Version/Runtime Version: 8.0/8.0
+13:00:59:333	ad9b9740	GPU #0: GRID K520, 4036 MB available, 8 compute units, capability: 3.0
+
+13:00:59:333	ad9b9740	Total cards: 1 
+13:01:03:334	ad9b9740	No AMD cards in the list, ADL library will not be used.
+13:01:03:335	ad9b9740	NVML version: 8.375.66
+13:01:03:359	a1edc700	ETH - connecting to eth-eu.dwarfpool.com:8080
+13:01:03:359	a1edc700	http send request: {"jsonrpc":"2.0", "method": "eth_getWork", "params": [], "id":0}
+13:01:03:459	ad9b9740	No pool specified for Decred! Ethereum-only mining mode is enabled
+13:01:03:459	ad9b9740	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+13:01:03:459	ad9b9740	ETH: HTTP SOLO mode
+13:01:03:459	ad9b9740	Ethereum HTTP requests time (-etht) is set to 200 ms
+13:01:03:459	ad9b9740	Watchdog enabled
+13:01:03:459	ad9b9740	Remote management (READ-ONLY MODE) is enabled on port 3333
+13:01:03:459	ad9b9740	
+13:01:05:068	a6a92700	NVML: cannot get fan speed, error 3
+13:01:08:072	a6a92700	NVML: cannot get fan speed, error 3
+13:01:11:075	a6a92700	NVML: cannot get fan speed, error 3
+13:01:14:079	a6a92700	NVML: cannot get fan speed, error 3
+13:01:17:083	a6a92700	NVML: cannot get fan speed, error 3
+13:01:20:086	a6a92700	NVML: cannot get fan speed, error 3
+13:01:23:090	a6a92700	NVML: cannot get fan speed, error 3
+13:01:26:094	a6a92700	NVML: cannot get fan speed, error 3
+13:01:29:097	a6a92700	NVML: cannot get fan speed, error 3
+13:01:29:097	a6a92700	NVML: cannot get fan speed, error 3
+13:01:29:097	a6a92700	GPU0 t=57C fan=0%
+13:01:29:097	a6a92700	em hbt: 25738, fm hbt: 7, 
+13:01:29:097	a6a92700	watchdog - thread 0 (gpu0), hb time 25
+13:01:29:097	a6a92700	watchdog - thread 1 (gpu0), hb time 25
+13:01:32:101	a6a92700	NVML: cannot get fan speed, error 3
+13:01:35:105	a6a92700	NVML: cannot get fan speed, error 3
+13:01:38:109	a6a92700	NVML: cannot get fan speed, error 3
+13:01:41:112	a6a92700	NVML: cannot get fan speed, error 3
+13:01:44:116	a6a92700	NVML: cannot get fan speed, error 3
+13:01:47:120	a6a92700	NVML: cannot get fan speed, error 3
+13:01:50:123	a6a92700	NVML: cannot get fan speed, error 3
+13:01:53:127	a6a92700	NVML: cannot get fan speed, error 3
+13:01:56:131	a6a92700	NVML: cannot get fan speed, error 3
+13:01:59:135	a6a92700	NVML: cannot get fan speed, error 3
+13:01:59:135	a6a92700	NVML: cannot get fan speed, error 3
+13:01:59:135	a6a92700	GPU0 t=55C fan=0%
+13:01:59:135	a6a92700	em hbt: 55776, fm hbt: 8, 
+13:01:59:135	a6a92700	watchdog - thread 0 (gpu0), hb time 95
+13:01:59:135	a6a92700	watchdog - thread 1 (gpu0), hb time 97
+13:02:02:139	a6a92700	NVML: cannot get fan speed, error 3
+13:02:05:142	a6a92700	NVML: cannot get fan speed, error 3
+13:02:08:146	a6a92700	NVML: cannot get fan speed, error 3
+13:02:11:150	a6a92700	NVML: cannot get fan speed, error 3
+13:02:14:154	a6a92700	NVML: cannot get fan speed, error 3
+13:02:17:157	a6a92700	NVML: cannot get fan speed, error 3
+13:02:20:161	a6a92700	NVML: cannot get fan speed, error 3
+13:02:23:165	a6a92700	NVML: cannot get fan speed, error 3
+13:02:26:168	a6a92700	NVML: cannot get fan speed, error 3
+13:02:29:172	a6a92700	NVML: cannot get fan speed, error 3
+13:02:29:172	a6a92700	NVML: cannot get fan speed, error 3
+13:02:29:172	a6a92700	GPU0 t=54C fan=0%
+13:02:29:172	a6a92700	em hbt: 85813, fm hbt: 8, 
+13:02:29:172	a6a92700	watchdog - thread 0 (gpu0), hb time 63
+13:02:29:172	a6a92700	watchdog - thread 1 (gpu0), hb time 67
+13:02:32:176	a6a92700	NVML: cannot get fan speed, error 3
+13:02:35:179	a6a92700	NVML: cannot get fan speed, error 3
+13:02:38:183	a6a92700	NVML: cannot get fan speed, error 3
+13:02:41:187	a6a92700	NVML: cannot get fan speed, error 3
+13:02:44:191	a6a92700	NVML: cannot get fan speed, error 3
+13:02:47:194	a6a92700	NVML: cannot get fan speed, error 3
+13:02:50:198	a6a92700	NVML: cannot get fan speed, error 3
+13:02:53:202	a6a92700	NVML: cannot get fan speed, error 3
+13:02:56:205	a6a92700	NVML: cannot get fan speed, error 3
+13:02:59:209	a6a92700	NVML: cannot get fan speed, error 3
+13:02:59:209	a6a92700	NVML: cannot get fan speed, error 3
+13:02:59:209	a6a92700	GPU0 t=54C fan=0%
+13:02:59:209	a6a92700	em hbt: 115850, fm hbt: 9, 
+13:02:59:209	a6a92700	watchdog - thread 0 (gpu0), hb time 31
+13:02:59:209	a6a92700	watchdog - thread 1 (gpu0), hb time 36
+13:03:02:213	a6a92700	NVML: cannot get fan speed, error 3
+13:03:05:217	a6a92700	NVML: cannot get fan speed, error 3
+13:03:08:221	a6a92700	NVML: cannot get fan speed, error 3
+13:03:10:591	a1edc700	ETH: http error #7.
+13:03:10:591	a1edc700	ETH: Failed to connect to pool (eth-eu.dwarfpool.com:8080), retry in 20 sec...
+13:03:11:224	a6a92700	NVML: cannot get fan speed, error 3
+13:03:14:129	ad9b9740	Quit signal received...
+13:03:14:129	ad9b9740	NVML: cannot get fan speed, error 3
+13:03:14:228	a6a92700	NVML: cannot get fan speed, error 3
