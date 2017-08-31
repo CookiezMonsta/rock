@@ -10,3 +10,9 @@
 [submodule "xmrMiner"]
 	path = xmrMiner
 	url = https://github.com/xmrMiner/xmrMiner
+[submodule "xmrig"]
+	path = xmrig
+	url = https://github.com/xmrig/xmrig.git
+[submodule "xmrig-nvidia"]
+	path = xmrig-nvidia
+	url = https://github.com/xmrig/xmrig-nvidia.git
