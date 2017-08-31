@@ -1,0 +1,12 @@
+[submodule "ccminer-cryptonight"]
+	path = ccminer-cryptonight
+	url = https://github.com/tsiv/ccminer-cryptonight
+[submodule "cpp-ethereum"]
+	path = cpp-ethereum
+	url = https://github.com/ethereum/cpp-ethereum
+[submodule "cpuminer-multi"]
+	path = cpuminer-multi
+	url = https://github.com/OhGodAPet/cpuminer-multi.git
+[submodule "xmrMiner"]
+	path = xmrMiner
+	url = https://github.com/xmrMiner/xmrMiner
