@@ -16,3 +16,6 @@
 [submodule "xmrig-nvidia"]
 	path = xmrig-nvidia
 	url = https://github.com/xmrig/xmrig-nvidia.git
+[submodule "xmr-stak-cpu"]
+	path = xmr-stak-cpu
+	url = ./xmr-stak-cpu
