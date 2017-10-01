@@ -1,0 +1,13 @@
+22:47:50:366	8bb8f740	args: -epool eth-eu.dwarfpool.com:8008 -ewal 0x8bb5e103b9849d1845609f0af8006fb077eb7b8c/Miner-David 
+22:47:50:366	8bb8f740	
+22:47:50:366	8bb8f740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+22:47:50:366	8bb8f740	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+22:47:50:366	8bb8f740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+22:47:50:367	8bb8f740	
+22:47:50:567	8bb8f740	ETH: 1 pool is specified
+22:47:50:567	8bb8f740	Main Ethereum pool is eth-eu.dwarfpool.com:8008
+22:47:50:567	8bb8f740	DCR: 0 pool is specified
+22:47:50:570	8bb8f740	AMD OpenCL platform not found 
+22:47:50:570	8bb8f740	cudaGetDeviceCount failed (35, CUDA driver version is insufficient for CUDA runtime version), probably no CUDA devices
+22:47:50:570	8bb8f740	No NVIDIA CUDA GPUs detected.
+22:47:50:570	8bb8f740	No AMD OPENCL or NVIDIA CUDA GPUs found, exit
