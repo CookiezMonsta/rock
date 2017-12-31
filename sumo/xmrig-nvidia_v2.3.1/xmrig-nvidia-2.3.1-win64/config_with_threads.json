@@ -1,0 +1,28 @@
+{
+    "algo": "cryptonight",
+    "background": false,
+    "colors": true,
+    "donate-level": 1,
+    "log-file": null,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "_threads": [
+        {
+            "index": 0,
+            "threads": 32,
+            "blocks": 18,
+            "bfactor": 6,
+            "bsleep": 25
+        }
+    ],
+    "pools": [
+        {
+            "url": "xmr-eu.dwarfpool.com:8005",
+            "user": "45nk55hPwc4Ghbie9QjbDdBXfpWz5V1s5Voo172hMWmPGiH7kLB29oVd7FqrutXQAye8D1PAHqiMidkLouTVGsDxEaak8hx.muffin_gpu",
+            "pass": "x",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
