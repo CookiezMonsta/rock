@@ -18,9 +18,9 @@
     ],
     "pools": [
         {
-            "url": "xmr-eu.dwarfpool.com:8005",
-            "user": "45nk55hPwc4Ghbie9QjbDdBXfpWz5V1s5Voo172hMWmPGiH7kLB29oVd7FqrutXQAye8D1PAHqiMidkLouTVGsDxEaak8hx.muffin_gpu",
-            "pass": "x",
+            "url": "pool.sumokoin.hashvault.pro:7777",
+            "user": "Sumoo2yvuyYBs2YbNbhuAo1THufcfAoTMNTrQQBA9Wqrf4WZaPWrBhsb9j89rSKMPcT2vjPTX6dR9jHuiviZsJcdYz5oQaxkRsJ",
+            "pass": "Killer-GPU:madhat1@gmail.com",
             "keepalive": true,
             "nicehash": false
         }

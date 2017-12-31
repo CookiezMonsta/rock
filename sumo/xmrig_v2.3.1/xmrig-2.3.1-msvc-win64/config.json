@@ -16,9 +16,9 @@
     "threads": 4,
     "pools": [
         {
-            "url": "xmr-eu.dwarfpool.com:8005",
-            "user": "45nk55hPwc4Ghbie9QjbDdBXfpWz5V1s5Voo172hMWmPGiH7kLB29oVd7FqrutXQAye8D1PAHqiMidkLouTVGsDxEaak8hx.muffin",
-            "pass": "x",
+            "url": "pool.sumokoin.hashvault.pro:3333",
+            "user": "Sumoo2yvuyYBs2YbNbhuAo1THufcfAoTMNTrQQBA9Wqrf4WZaPWrBhsb9j89rSKMPcT2vjPTX6dR9jHuiviZsJcdYz5oQaxkRsJ",
+            "pass": "Killer-CPU:madhat1@gmail.com",
             "keepalive": true,
             "nicehash": false
         }
