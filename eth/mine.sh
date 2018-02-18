@@ -5,15 +5,12 @@ export GPU_MAX_HEAP_SIZE=100
 export GPU_USE_SYNC_OBJECTS=1
 export GPU_SINGLE_ALLOC_PERCENT=100
 
-WALLET=0x8bb5e103b9849d1845609f0af8006fb077eb7b8c
-FILE=/home/ubuntu/miner_name.txt
+WALLET=0x5A280472aE034F6ebc9f473705e4e06A3F0f84f9
 
-while [ ! -f $FILE ]
-do
-  sleep 2
-done
+ROCK_DIR=$(dirname "${BASH_SOURCE[0]}")
+HOSTNAME=$(hostname)
+MINER=${HOSTNAME:0:8}-GPU
 
-MINER=$(cat /home/ubuntu/miner_name.txt)
 echo "Starting ethminer - Miner: $MINER"
 
-sudo /usr/local/bin/ethminer -G -F http://eth-eu.dwarfpool.com/$WALLET/$MINER --farm-recheck 200 --cl-local-work 256 --cl-global-work 8192
+sudo $ROCK_DIR/ethminer-0.14.0.dev1-Linux/bin/ethminer -U -F http://eth-eu.dwarfpool.com/$WALLET/$MINER --farm-recheck 200
