@@ -1,5 +1,4 @@
 #! /bin/bash
 
-screen -S geth -d -m /home/ubuntu/geth.sh
-screen -S mine -d -m /home/ubuntu/mine.sh
-
+ROCK_DIR=$(dirname "${BASH_SOURCE[0]}")
+screen -S mine -d -m $ROCK_DIR/mine.sh
