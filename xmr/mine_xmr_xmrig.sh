@@ -10,6 +10,7 @@ let CACHE_MB=$(cat /proc/cpuinfo  | grep "cache size" | uniq | tr -d ' ' | cut -
 ROCK_DIR=$(dirname "${BASH_SOURCE[0]}")
 HOSTNAME=$(hostname)
 THREADS=$CACHE_MB
+XMRIG_VER=v2.5.3
 
 # mymonero.com
-sudo $ROCK_DIR/xmrig_v2.3.1/xmrig --url=xmr-eu.dwarfpool.com:8005 --user=45nk55hPwc4Ghbie9QjbDdBXfpWz5V1s5Voo172hMWmPGiH7kLB29oVd7FqrutXQAye8D1PAHqiMidkLouTVGsDxEaak8hx.$HOSTNAME --pass=x --keepalive --donate-level=1 --threads=$THREADS --cpu-priority=5
+sudo $ROCK_DIR/xmrig_$XMRIG_VER/xmrig --url=xmr-eu.dwarfpool.com:8005 --user=45nk55hPwc4Ghbie9QjbDdBXfpWz5V1s5Voo172hMWmPGiH7kLB29oVd7FqrutXQAye8D1PAHqiMidkLouTVGsDxEaak8hx.$HOSTNAME --pass=x --keepalive --donate-level=1 --threads=$THREADS --cpu-priority=5
